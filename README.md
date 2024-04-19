@@ -21,5 +21,4 @@ Embark on a journey of discovery through our website. Engage with our dynamic sl
 
 # "At KicksKorner, we stride towards success, fueled by the collective passion for footwear innovation. Every step paves the path to greatness, and we embrace the journey with style and determination."
 
-# Licence
-This project is licensed under the MIT License
+
